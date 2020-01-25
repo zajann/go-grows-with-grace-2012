@@ -1,7 +1,5 @@
 # go-grows-with-grace-2012
 
----
-
 :book: A compilation of the sample codes used in [the presentation](https://talks.golang.org/2012/chat.slide#1)
 
 ## Codes
